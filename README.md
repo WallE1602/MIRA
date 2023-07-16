@@ -18,7 +18,7 @@ Advancing Imaging Technologies: We conduct interdisciplinary research to develop
 # Join Us
 We welcome collaboration and engagement from researchers, students, and professionals who share our passion for medical imaging research. Whether you're interested in contributing to our projects, accessing our open-source code, or exploring potential collaborations, we encourage you to reach out and get involved.
 
-Please visit our [website](walle1602.github.io/MIRA/) for more information about MIRA and our ongoing research projects.
+Please visit our [website](https://walle1602.github.io/MIRA/) for more information about MIRA and our ongoing research projects.
 
 Let's innovate together and make a significant impact on the future of medical imaging!
 
